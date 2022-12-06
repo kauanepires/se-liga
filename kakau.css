@@ -1,0 +1,9 @@
+iv.base {
+width:100%;
+}
+
+div.border{
+width:960px;
+margin:0 auto;
+border:2px solid #000;
+}
